@@ -1,0 +1,2 @@
+data.raw["recipe"]["steel-furnace"].ingredients = {{"steel-plate", 6}, {"stone-brick", 8}, {"stone-furnace", 1}}
+data.raw["recipe"]["electric-furnace"].ingredients = {{"steel-plate", 4}, {"advanced-circuit", 5}, {"steel-furnace", 1}}
